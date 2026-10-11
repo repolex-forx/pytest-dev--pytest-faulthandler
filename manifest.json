@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "pytest-dev",
+  "repo": "pytest-faulthandler",
+  "versions": [
+    {
+      "commit": "11cfc20668db299e5b4002b702c441867c41f3d4",
+      "parsed_at": "2026-10-11T03:03:31.451209+00:00",
+      "filetree": "filetree/11cfc20668db299e5b4002b702c441867c41f3d4.nq.gz",
+      "blobs": [
+        "blob/38badca82a210822bcbe02426afe503e9cae474e.nq.gz",
+        "blob/f6031169adbdc51bdaa72228467327de822c3b16.nq.gz",
+        "blob/05aaca3f1a3c2fdf08a6ae5f3d779ac5042553a5.nq.gz",
+        "blob/3c6e79cf31da1c0433d2fa666bf50b53f6359f26.nq.gz",
+        "blob/a8e76db10f1a45420eeb3767d00397b8a575691a.nq.gz",
+        "blob/cdf47f51821c5aa704ec7e39d759f3a6b8ec0538.nq.gz",
+        "blob/1aba38f67a2211cf5b09466d7b411206cb7223bf.nq.gz",
+        "blob/2a0b9a100f127aba5369b9ba31f91ba4143ba8df.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
